@@ -1,0 +1,6 @@
+this is a mod_perl module for handling member logins.
+it includes protection from password leaks and leachers and allows for mysql and/or passwordfiles
+it also has a system in it for web based auth like php sessions
+it was written a while ago
+
+i will look up the usage and post it here when i can
